@@ -1,0 +1,7 @@
+﻿  Deque.cpp
+  main_testing_deque.cpp
+C:\Users\Алексей\Desktop\Остальное\УНИВЕР\Матобес\Лабы\Fifth\Fifth\main_testing_deque.cpp(81): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+C:\Users\Алексей\Desktop\Остальное\УНИВЕР\Матобес\Лабы\Fifth\Fifth\Deque.cpp(64): warning C4715: Deque::Front: значение возвращается не при всех путях выполнения
+C:\Users\Алексей\Desktop\Остальное\УНИВЕР\Матобес\Лабы\Fifth\Fifth\Deque.cpp(72): warning C4715: Deque::Back: значение возвращается не при всех путях выполнения
+  Fifth.vcxproj -> C:\Users\Алексей\Desktop\Остальное\УНИВЕР\Матобес\Лабы\Fifth\Debug\Fifth.exe

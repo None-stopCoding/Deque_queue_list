@@ -1,0 +1,5 @@
+﻿  Dlist.cpp
+  main_testing_dlist.cpp
+  Создание кода...
+C:\Users\Алексей\Desktop\Остальное\УНИВЕР\Матобес\Лабы\Seventh\Seventh\main_testing_dlist.cpp(307,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Seventh.vcxproj -> C:\Users\Алексей\Desktop\Остальное\УНИВЕР\Матобес\Лабы\Seventh\Debug\Seventh.exe
